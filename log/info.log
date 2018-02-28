@@ -1,0 +1,116 @@
+2018-02-27 14:03:05.644 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 14:03:41.232 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:03:41.244 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test
+2018-02-27 14:03:41.249 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:08:56.881 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:08:56.881 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test
+2018-02-27 14:08:56.881 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:09:04.481 [nioEventLoopGroup-2-4] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:09:04.482 [nioEventLoopGroup-2-4] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test
+2018-02-27 14:09:04.482 [nioEventLoopGroup-2-4] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:09:13.913 [nioEventLoopGroup-2-5] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:09:13.913 [nioEventLoopGroup-2-5] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 14:09:13.913 [nioEventLoopGroup-2-5] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:17:55.488 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 14:18:38.418 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:18:38.420 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 14:18:38.424 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:18:48.039 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:18:48.040 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 14:18:48.040 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:19:40.576 [nioEventLoopGroup-2-4] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:19:40.577 [nioEventLoopGroup-2-4] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 14:19:40.577 [nioEventLoopGroup-2-4] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:20:14.208 [nioEventLoopGroup-2-5] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:20:14.208 [nioEventLoopGroup-2-5] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 14:20:14.208 [nioEventLoopGroup-2-5] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:20:23.421 [nioEventLoopGroup-2-6] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:20:23.421 [nioEventLoopGroup-2-6] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 14:20:23.421 [nioEventLoopGroup-2-6] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:28:28.339 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 14:28:48.811 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:29:04.233 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 14:29:15.777 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 14:30:08.781 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 14:47:05.686 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 14:47:11.495 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 14:47:11.497 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 14:47:11.502 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 17:39:14.780 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 17:39:18.785 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 17:39:18.787 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 17:39:18.792 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 18:33:46.746 [main] ERROR com.netty.server.NettyServer -初始化异常
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind(Native Method)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:126)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:59)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:543)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1254)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:488)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:473)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:965)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:243)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:360)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:339)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:374)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:662)
+2018-02-27 18:34:05.818 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 18:42:04.088 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 18:42:04.093 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 18:42:04.107 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 18:47:02.272 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 18:47:06.969 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 18:47:06.972 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 18:47:06.978 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 18:47:12.482 [nioEventLoopGroup-2-3] WARN  io.netty.channel.ChannelInitializer -Failed to initialize a channel. Closing: [id: 0xaf0815a0, L:/127.0.0.1:9600 - R:/127.0.0.1:9205]
+io.netty.channel.ChannelPipelineException: com.netty.server.handler.NettyServerHandler is not a @Sharable handler, so can't be added or removed multiple times.
+	at io.netty.channel.DefaultChannelPipeline.checkMultiplicity(DefaultChannelPipeline.java:582)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:196)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:384)
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:371)
+	at com.netty.server.NettyServer$1.initChannel(NettyServer.java:46)
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:68)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:142)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:128)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:121)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRegistered(DefaultChannelPipeline.java:1309)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:142)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:128)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRegistered(DefaultChannelPipeline.java:805)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:498)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:412)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:471)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:339)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:374)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:662)
+2018-02-27 18:47:12.508 [nioEventLoopGroup-2-1] ERROR com.netty.client.NettyClientHandler -客户端异常
+java.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:25)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:198)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:166)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:245)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1098)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:112)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:662)
+2018-02-27 18:47:57.626 [main] INFO  com.netty.server.NettyServer -服务端创建成功！
+2018-02-27 18:48:03.443 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 18:48:03.445 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 18:48:03.450 [nioEventLoopGroup-2-2] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
+2018-02-27 18:48:07.046 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -是否直接内存：true
+2018-02-27 18:48:07.047 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -服务端收到消息，开始处理：test1
+2018-02-27 18:48:07.047 [nioEventLoopGroup-2-3] INFO  c.n.s.handler.NettyServerHandler -服务端处理消息结束
